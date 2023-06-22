@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.9.16 on win32)" generated="20230620 23:48:39.614" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\pcies\.vscode\extensions\robocorp.robotframework-lsp-1.11.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<status status="PASS" starttime="20230620 23:48:39.664" endtime="20230621 07:20:02.823"/>
+</kw>
+<status status="PASS" starttime="20230620 23:48:39.664" endtime="20230621 07:20:02.871"/>
+</test>
+<status status="PASS" starttime="20230620 23:48:39.622" endtime="20230621 07:20:02.945"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
+ keyword with name 'Open Browser' found.</msg>
+<status status="FAIL" starttime="20230621 00:38:02.024" endtime="20230621 00:38:02.024"/>
+</kw>
+<kw name="Open Browser">
+<arg>https://www.google.pl/</arg>
+<arg>chrome</arg>
+<msg timestamp="20230621 00:47:36.469" level="FAIL">No keyword with name 'Open Browser' found.</msg>
+<status status="FAIL" starttime="20230621 00:47:36.469" endtime="20230621 00:47:36.469"/>
+</kw>
+<kw name="Close Browser">
+<status status="NOT RUN" starttime="20230621 00:47:36.471" endtime="20230621 00:47:36.471"/>
+</kw>
+<kw name="Open Browser">
+<arg>https://www.google.pl/</arg>
+<arg>chrome</arg>
+<msg timestamp="20230621 00:54:14.507" level="FAIL">No keyword with name 'Open Browser' found.</msg>
+<status status="FAIL" starttime="20230621 00:54:14.507" endtime="20230621 00:54:14.507"/>
+</kw>
+<kw name="Close Browser">
+<status status="NOT RUN" starttime="20230621 00:54:14.509" endtime="20230621 00:54:14.510"/>
+</kw>
+<status status="PASS" starttime="20230620 23:48:42.460" endtime="20230621 07:20:02.216"/>
+</kw>
+<status status="PASS" starttime="20230620 23:48:42.459" endtime="20230621 07:20:02.294"/>
+</test>
+<status status="PASS" starttime="20230620 23:48:42.401" endtime="20230621 07:20:02.347"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
