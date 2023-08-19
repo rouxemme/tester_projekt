@@ -13,7 +13,7 @@ robotframework-seleniumlibrary
 Testowana aplikacja webowa:
 https://www.amazon.pl/
 
-Test 1: Testowanie szybkości procedury dodania produktu do koszyka
+Test 1: Testowanie szybkości procedury dodania produktu do koszyka - koszyk.robot
 Test ma na celu sprawdzenie szybkości procedury dodawania produktu do koszyka na stronie amazon.pl. Procedura obejmuje załadowanie strony, wyszukanie produktu "piłka", otwarcie pierwszego znalezionego produktu i dodanie go do koszyka.
 
 
